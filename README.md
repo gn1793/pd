@@ -1,2 +1,2 @@
 # Pedestrian Detection in Autonomous Driving System
-<img width="1672" alt="image" src="https://github.com/user-attachments/assets/1763d846-8d70-475f-b059-b47446259832" />
+<img width="1698" alt="image" src="https://github.com/user-attachments/assets/b449c4bc-6447-460f-9ff3-69946aea37a8" />
