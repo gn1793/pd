@@ -11,11 +11,11 @@ This project compares pedestrian detection performance across different YOLOv11 
 <table>
   <tr>
     <td align="center">
-      <img src="gifs/yolov11l.gif" width="300"/><br/>
+      <img src="gifs/yolo11l.gif" width="300"/><br/>
       <p>yolov11l</p>
     </td>
     <td align="center">
-      <img src="gifs/yolov11m.gif" width="300"/><br/>
+      <img src="gifs/yolo11m.gif" width="300"/><br/>
       <p>yolov11m</p>
     </td>
     <td align="center">
