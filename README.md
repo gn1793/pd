@@ -11,7 +11,7 @@ This project compares pedestrian detection performance across different YOLOv11 
   <tr>
     <td align="center">
       <b>YOLOv11n</b><br>
-      <img src="gifs/yolo11_comparison.gif" width="500">
+      <img src="gifs/yolo11_comparison_git.gif" width="500">
     </td>
   </tr>
 </table>
