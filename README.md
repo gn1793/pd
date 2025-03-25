@@ -4,7 +4,6 @@
 # 🧠 Pedestrian Detection using YOLOv11 Models
 
 This project compares pedestrian detection performance across different YOLOv11 variants using KITTI raw dataset (`2011_09_26_drive_0091_sync`).
-이 프로젝트는 KITTI 원시 데이터셋('2011_09_26_drive_0091_sync')을 사용하여 다양한 YOLOv11 변형에서 보행자 감지 성능을 비교합니다.
 ## 📹 Model Comparison (GIFs)
 
 
