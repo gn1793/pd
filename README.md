@@ -1,12 +1,16 @@
 # Pedestrian Detection in Autonomous Driving System
-<img width="1698" alt="image" src="https://github.com/user-attachments/assets/b449c4bc-6447-460f-9ff3-69946aea37a8" />
+Yolov11
+<img width="1698" alt="image" src="yolo11_pedestrian_comparison.png" />
+Yolo-Nas
+<img width="1698" alt="image" src="yolo_nas_pedestrian_comparison.png" />
+
 
 # 🧠 Pedestrian Detection using YOLOv11 Models
 
 This project compares pedestrian detection performance across different YOLOv11 variants using KITTI raw dataset (`2011_09_26_drive_0091_sync`).
 ## 📹 Model Comparison (GIFs)
 
-
+# Yolov11(FPS:33.33)
 <table>
   <tr>
     <td align="center">
@@ -30,6 +34,24 @@ This project compares pedestrian detection performance across different YOLOv11 
     <td align="center">
       <img src="gifs/yolo11x.gif" width="300"/><br/>
       <p>yolo11x</p>
+    </td>
+  </tr>
+</table>
+
+# Yolo-Nas(FPS:14.29)
+<table>
+  <tr>
+    <td align="center">
+      <img src="yolo_nas_gifs/yolo_nas_s.gif" width="300"/><br/>
+      <p>yolov-nas_s</p>
+    </td>
+    <td align="center">
+      <img src="yolo_nas_gifs/yolo_nas_m.gif" width="300"/><br/>
+      <p>yolov-nas-m</p>
+    </td>
+    <td align="center">
+      <img src="yolo_nas_gifs/yolo_nas_l.gif" width="300"/><br/>
+      <p>yolo1-nas-l</p>
     </td>
   </tr>
 </table>
