@@ -38,7 +38,7 @@ This project compares pedestrian detection performance across different YOLOv11 
   </tr>
 </table>
 
-# Yolo-Nas(FPS:14.29)
+# Yolo-Nas(FPS:33.33)
 <table>
   <tr>
     <td align="center">
