@@ -55,3 +55,31 @@ This project compares pedestrian detection performance across different YOLOv11 
     </td>
   </tr>
 </table>
+
+# Yolo-RTMPose(FPS:33.33)
+<table>
+  <tr>
+    <td align="center">
+      <img src="output_gifs/yolo11l.gif" width="300"/><br/>
+      <p>yolov11l</p>
+    </td>
+    <td align="center">
+      <img src="output_gifs/yolo11m.gif" width="300"/><br/>
+      <p>yolov11m</p>
+    </td>
+    <td align="center">
+      <img src="output_gifs/yolo11n.gif" width="300"/><br/>
+      <p>yolo11n</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="output_gifs/yolo11s.gif" width="300"/><br/>
+      <p>yolo11s</p>
+    </td>
+    <td align="center">
+      <img src="output_gifs/yolo11x.gif" width="300"/><br/>
+      <p>yolo11x</p>
+    </td>
+  </tr>
+</table>
