@@ -83,3 +83,32 @@ This project compares pedestrian detection performance across different YOLOv11 
     </td>
   </tr>
 </table>
+
+# Nuscene(map1,3)
+<table>
+  <tr>
+    <td align="center">
+      <img src="nuscene_gif/map1_good_1.gif" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="nuscene_gif/map1_good_6.gif" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="nuscene_gif/map1_good_45.gif" width="300"/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="nuscene_gif/map3_1(map3).gif" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="nuscene_gif/map3_2(map3).gif" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="nuscene_gif/map3_3(map3).gif" width="300"/><br/>
+    </td>
+    <td align="center">
+      <img src="nuscene_gif/map3_4(map3).gif" width="300"/><br/>
+    </td>
+  </tr>
+</table>
