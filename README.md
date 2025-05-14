@@ -84,37 +84,44 @@ This project compares pedestrian detection performance across different YOLOv11 
   </tr>
 </table>
 
-# Nuscene(map1,3)
+# Nuscene
+## Map 1
 <table>
   <tr>
     <td align="center">
-      <img src="nuscene_gif/map1_good_1.gif" width="200"/><br/>
+      <img src="nuscene_gif/map1_good_1.gif" width="300"/><br/>
       <p>[Map1]1</p>
     </td>
     <td align="center">
-      <img src="nuscene_gif/map1_good_6.gif" width="200"/><br/>
+      <img src="nuscene_gif/map1_good_6.gif" width="300"/><br/>
       <p>[Map1]2</p>
     </td>
     <td align="center">
-      <img src="nuscene_gif/map1_good_45.gif" width="200"/><br/>
+      <img src="nuscene_gif/map1_good_45.gif" width="300"/><br/>
       <p>[Map1]3</p>
+    </td>
+  </tr>
+</table>
+
+## Map 3
+<table>
+  <tr>
+    <td align="center">
+      <img src="nuscene_gif/map3_1(map3).gif" width="300"/><br/>
+      <p>[Map3]1</p>
+    </td>
+    <td align="center">
+      <img src="nuscene_gif/map3_2(map3).gif" width="300"/><br/>
+      <p>[Map3]2</p>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="nuscene_gif/map3_1(map3).gif" width="200"/><br/>
-      <p>[Map3]1</p>
-    </td>
-    <td align="center">
-      <img src="nuscene_gif/map3_2(map3).gif" width="200"/><br/>
-      <p>[Map3]2</p>
-    </td>
-    <td align="center">
-      <img src="nuscene_gif/map3_3(map3).gif" width="200"/><br/>
+      <img src="nuscene_gif/map3_3(map3).gif" width="300"/><br/>
       <p>[Map3]3</p>
     </td>
     <td align="center">
-      <img src="nuscene_gif/map3_4(map3).gif" width="200"/><br/>
+      <img src="nuscene_gif/map3_4(map3).gif" width="300"/><br/>
       <p>[Map3]4</p>
     </td>
   </tr>
